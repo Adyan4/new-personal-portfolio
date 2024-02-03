@@ -1,5 +1,7 @@
 Hey! This is the code for my new personal website.
 
+Check it out here: https://adyan4.github.io/new-personal-portfolio/
+
 Thank you to Bootstrap for providing a template!
 Additional details of the templates are down below.
 
